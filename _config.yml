@@ -7,8 +7,8 @@ url: "http://blog.marcenschede.nl/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
+username: Marc Enschede
+user_description: Software developer.
 disqus_username: disqus_username
 
 # Social Media
