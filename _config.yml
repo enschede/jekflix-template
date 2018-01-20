@@ -3,7 +3,7 @@ title: Marc Enschede
 email: marc@marcenschede.nl
 description: Software development
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.marcenschede.nl/" # the base hostname & protocol for your site
+url: "http://blog.marcenschede.nl" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
